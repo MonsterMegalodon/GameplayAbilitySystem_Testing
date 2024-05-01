@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\megal\\documents\\github\\gameplayabilitysystem_testing\\gameplayabilitysystem_testing\\source\\gameplayabilitysystem_testing\\private\\player\\gastplayerstate.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\megal\\documents\\github\\gameplayabilitysystem_testing\\gameplayabilitysystem_testing\\intermediate\\build\\win64\\x64\\gameplayabilitysystem_testingeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\megal\\documents\\github\\gameplayabilitysystem_testing\\gameplayabilitysystem_testing\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplayabilitysystem_testing\\definitions.gameplayabilitysystem_testing.h",
+            "c:\\users\\megal\\documents\\github\\gameplayabilitysystem_testing\\gameplayabilitysystem_testing\\source\\gameplayabilitysystem_testing\\public\\player\\gastplayerstate.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
+            "c:\\users\\megal\\documents\\github\\gameplayabilitysystem_testing\\gameplayabilitysystem_testing\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilitysystem_testing\\uht\\gastplayerstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

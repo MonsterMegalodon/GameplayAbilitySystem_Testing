@@ -42,6 +42,12 @@
     <Filter Include="Source\GameplayAbilitySystem_Testing\Private">
       <UniqueIdentifier>{A8699FBB-F11A-361E-8A5A-A8CD39388930}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\GameplayAbilitySystem_Testing\Private\AbilitySystem">
+      <UniqueIdentifier>{B3748EE4-C86E-3088-8554-DC8B7B602FCB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GameplayAbilitySystem_Testing\Private\AbilitySystem\GASTAbilitySystemComponent.cpp">
+      <Filter>Source\GameplayAbilitySystem_Testing\Private\AbilitySystem</Filter>
+    </ClCompile>
     <Filter Include="Source\GameplayAbilitySystem_Testing\Private\Character">
       <UniqueIdentifier>{739C12DB-03FD-3171-93A8-CB16E2F944EC}</UniqueIdentifier>
     </Filter>
@@ -54,9 +60,21 @@
     <ClCompile Include="..\..\Source\GameplayAbilitySystem_Testing\Private\Character\GASTEnemy.cpp">
       <Filter>Source\GameplayAbilitySystem_Testing\Private\Character</Filter>
     </ClCompile>
+    <Filter Include="Source\GameplayAbilitySystem_Testing\Private\Player">
+      <UniqueIdentifier>{E76F6F17-D8FE-32BD-8121-6E9F83D33336}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GameplayAbilitySystem_Testing\Private\Player\GASTPlayerState.cpp">
+      <Filter>Source\GameplayAbilitySystem_Testing\Private\Player</Filter>
+    </ClCompile>
     <Filter Include="Source\GameplayAbilitySystem_Testing\Public">
       <UniqueIdentifier>{B7658572-6277-33A9-A144-87538FAF2739}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\GameplayAbilitySystem_Testing\Public\AbilitySystem">
+      <UniqueIdentifier>{FDBC1ED9-E13D-3AD9-A370-375E06EC2604}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GameplayAbilitySystem_Testing\Public\AbilitySystem\GASTAbilitySystemComponent.h">
+      <Filter>Source\GameplayAbilitySystem_Testing\Public\AbilitySystem</Filter>
+    </ClInclude>
     <Filter Include="Source\GameplayAbilitySystem_Testing\Public\Character">
       <UniqueIdentifier>{F38F4AD5-96B1-3249-B1CE-C3BBABA4455B}</UniqueIdentifier>
     </Filter>
@@ -68,6 +86,12 @@
     </ClInclude>
     <ClInclude Include="..\..\Source\GameplayAbilitySystem_Testing\Public\Character\GASTEnemy.h">
       <Filter>Source\GameplayAbilitySystem_Testing\Public\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\GameplayAbilitySystem_Testing\Public\Player">
+      <UniqueIdentifier>{5E147DE8-50D4-3216-A2F8-2A263744872D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GameplayAbilitySystem_Testing\Public\Player\GASTPlayerState.h">
+      <Filter>Source\GameplayAbilitySystem_Testing\Public\Player</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
