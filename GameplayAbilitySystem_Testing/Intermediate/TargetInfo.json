@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameplayAbilitySystem_Testing",
+			"Path": "..\\Source\\GameplayAbilitySystem_Testing.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameplayAbilitySystem_TestingEditor",
+			"Path": "..\\Source\\GameplayAbilitySystem_TestingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

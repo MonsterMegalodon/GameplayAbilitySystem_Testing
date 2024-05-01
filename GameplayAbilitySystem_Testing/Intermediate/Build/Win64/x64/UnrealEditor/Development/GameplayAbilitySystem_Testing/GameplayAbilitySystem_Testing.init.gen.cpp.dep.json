@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\megal\\documents\\github\\gameplayabilitysystem_testing\\gameplayabilitysystem_testing\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilitysystem_testing\\uht\\gameplayabilitysystem_testing.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\megal\\documents\\github\\gameplayabilitysystem_testing\\gameplayabilitysystem_testing\\intermediate\\build\\win64\\x64\\gameplayabilitysystem_testingeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\megal\\documents\\github\\gameplayabilitysystem_testing\\gameplayabilitysystem_testing\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplayabilitysystem_testing\\definitions.gameplayabilitysystem_testing.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

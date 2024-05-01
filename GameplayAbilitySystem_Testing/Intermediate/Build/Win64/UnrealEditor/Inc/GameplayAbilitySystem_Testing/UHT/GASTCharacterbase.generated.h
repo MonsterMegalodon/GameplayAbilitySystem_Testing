@@ -1,0 +1,64 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "Character/GASTCharacterbase.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef GAMEPLAYABILITYSYSTEM_TESTING_GASTCharacterbase_generated_h
+#error "GASTCharacterbase.generated.h already included, missing '#pragma once' in GASTCharacterbase.h"
+#endif
+#define GAMEPLAYABILITYSYSTEM_TESTING_GASTCharacterbase_generated_h
+
+#define FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_SPARSE_DATA
+#define FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_ACCESSORS
+#define FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAGASTCharacterbase(); \
+	friend struct Z_Construct_UClass_AGASTCharacterbase_Statics; \
+public: \
+	DECLARE_CLASS(AGASTCharacterbase, ACharacter, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/GameplayAbilitySystem_Testing"), NO_API) \
+	DECLARE_SERIALIZER(AGASTCharacterbase)
+
+
+#define FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AGASTCharacterbase(AGASTCharacterbase&&); \
+	NO_API AGASTCharacterbase(const AGASTCharacterbase&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGASTCharacterbase); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGASTCharacterbase); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AGASTCharacterbase) \
+	NO_API virtual ~AGASTCharacterbase();
+
+
+#define FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_9_PROLOG
+#define FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_SPARSE_DATA \
+	FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_ACCESSORS \
+	FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h_12_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> GAMEPLAYABILITYSYSTEM_TESTING_API UClass* StaticClass<class AGASTCharacterbase>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Users_megal_Documents_GitHub_GameplayAbilitySystem_Testing_GameplayAbilitySystem_Testing_Source_GameplayAbilitySystem_Testing_Public_Character_GASTCharacterbase_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
